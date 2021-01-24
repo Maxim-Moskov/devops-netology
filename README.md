@@ -1,4 +1,10 @@
 # devops-netology
+Readme
+#
+# Локальная директория .terraform
+**/.terraform/* 
 
-first commit - readme.md
-Second commit - .gitignore
+# Игнорировать все файлы с расширением .tfvars
+*.tfvars
+
+
