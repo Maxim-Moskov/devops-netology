@@ -1,3 +1,4 @@
 # devops-netology
 
-Hello Git
+first commit - readme.md
+Second commit - .gitignore
