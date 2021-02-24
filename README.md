@@ -8,6 +8,8 @@ Readme
 *.tfvars
 #
 1. Работа в PyCharm
-
-
+#
+Созданы файлы merge.sh и rebase.sh
+#
+Создана ветка merge
 
